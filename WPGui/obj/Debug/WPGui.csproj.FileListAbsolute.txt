@@ -1,0 +1,12 @@
+C:\Users\Moba\Documents\Visual Studio\Sources\WPGui\WPGui\obj\Debug\WPGui.Form1.resources
+C:\Users\Moba\Documents\Visual Studio\Sources\WPGui\WPGui\obj\Debug\WPGui.Properties.Resources.resources
+C:\Users\Moba\Documents\Visual Studio\Sources\WPGui\WPGui\obj\Debug\WPGui.csproj.GenerateResource.cache
+C:\Users\Moba\Documents\Visual Studio\Sources\WPGui\WPGui\obj\Debug\WPGui.csproj.CoreCompileInputs.cache
+C:\Users\Moba\Documents\Visual Studio\Sources\WPGui\WPGui\obj\Debug\WPGui.csprojAssemblyReference.cache
+C:\Users\Moba\Documents\Visual Studio\Sources\WPGui\WPGui\bin\Debug\WPGui.exe.config
+C:\Users\Moba\Documents\Visual Studio\Sources\WPGui\WPGui\bin\Debug\WPGui.exe
+C:\Users\Moba\Documents\Visual Studio\Sources\WPGui\WPGui\bin\Debug\WPGui.pdb
+C:\Users\Moba\Documents\Visual Studio\Sources\WPGui\WPGui\obj\Debug\WPGui.exe
+C:\Users\Moba\Documents\Visual Studio\Sources\WPGui\WPGui\obj\Debug\WPGui.pdb
+C:\Users\Moba\Documents\Visual Studio\Sources\WPGui\WPGui\bin\Debug\VelyseTheme.dll
+C:\Users\Moba\Documents\Visual Studio\Sources\WPGui\WPGui\obj\Debug\WPGui.csproj.CopyComplete
